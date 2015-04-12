@@ -1,0 +1,8 @@
+2014-10-24  Will Newton  <will.newton@linaro.org>
+
+	* src-release.sh: Fix parsing of bfd version number.
+
+2014-08-27  Will Newton  <will.newton@linaro.org>
+
+	* src-release.sh: New file.
+	* src-release: Remove file.
